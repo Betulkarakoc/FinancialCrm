@@ -1,0 +1,8 @@
+﻿# Visual Studio temporary files
+.vs/
+
+# Other common unnecessary files (if not already there)
+bin/
+obj/
+*.user
+*.suo
